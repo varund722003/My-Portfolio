@@ -15,7 +15,7 @@ body{
 #header {
     width: 100%;
     height: 100vh;
-    background-image: url("https://github.com/varund722003/My-Portfolio/blob/7ace141bce5e17b6c3ebb1e300fd3565a2e7a66a/IMG_20201101_131137_2-removebg22.png");
+    background-image: url("https://github.com/varund722003/My-Portfolio/blob/main/IMG_20201101_131137_2-removebg22.png?raw=true");
     background-size: cover;
     background-position: center;
 }
@@ -352,7 +352,7 @@ nav .fas {
 }
 @media only screen and (max-width: 600px) {
     #header{
-        background-image: url(https://github.com/varund722003/My-Portfolio/blob/7ace141bce5e17b6c3ebb1e300fd3565a2e7a66a/phone%20k%20liye.png);
+        background-image: url(https://github.com/varund722003/My-Portfolio/blob/main/phone%20k%20liye.png?raw=true);
 
     }
     .header-text{
