@@ -104,7 +104,9 @@ nav ul li a:hover::after{
 }
 .about-col-2 p{
     margin-top: 20px;
-    font-size: 30px;
+    font-size: 20px;
+    font-family: 'Noto Serif', serif;
+    ;
 }
 .subtitle{
     font-size: 65px;
@@ -196,7 +198,7 @@ nav ul li a:hover::after{
 .services-list div a{
     text-decoration: none;
     color: #fff;
-    font-size: 20px;
+    font-size: 10px;
     margin-top: 20px;
     display: inline-block;
 
@@ -374,7 +376,7 @@ nav .fas {
 }
 @media only screen and (max-width: 600px) {
     #header{
-        background-image: url("phone ke liye.png");
+        background-image: url("phone k liye.png");
 
     }
     .header-text{
